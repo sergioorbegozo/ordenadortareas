@@ -1,0 +1,12 @@
+.container {
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    border: 1px solid black;
+    background: #e30052;
+}
+
+a {
+    color: #e30052
+}
+
